@@ -17,7 +17,10 @@ namespace Test
             string age = string.Empty;
 
             // 1. Request 객체의 QueryString 컬렉션
+            // FrmRequest.aspx?UserID=abc&Password=123 같은 쿼리스트링 방식 이용해야만 작동 가능
+            // 폼으로 입력하고 싶으면 userID = Request["UserID"]; 같은 방식 이용
             userID = Request.QueryString["UserID"];
+            
             // 2. Request 객체의 Params 컬렉션
             password = Request.Params["Password"];
             // 3. Request 객체의 Form 컬렉션 
