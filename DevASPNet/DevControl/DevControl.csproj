@@ -81,6 +81,7 @@
     <Content Include="FrmTextBox.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
+    <Content Include="FrmHtml.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FrmBulletedList.aspx.cs">
@@ -171,6 +172,13 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FrmHtml.aspx.cs">
+      <DependentUpon>FrmHtml.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmHtml.aspx.designer.cs">
+      <DependentUpon>FrmHtml.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
