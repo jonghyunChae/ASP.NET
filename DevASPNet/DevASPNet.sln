@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNet_1", "Test\ASPNet_1.c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevControl", "DevControl\DevControl.csproj", "{570A3703-E3B0-47D7-85C9-CBD53351BE96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevControlRichEdit", "DevControlRichEdit\DevControlRichEdit.csproj", "{BA063D0A-56AF-42E6-A103-438F1DC2CB67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{570A3703-E3B0-47D7-85C9-CBD53351BE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{570A3703-E3B0-47D7-85C9-CBD53351BE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{570A3703-E3B0-47D7-85C9-CBD53351BE96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA063D0A-56AF-42E6-A103-438F1DC2CB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA063D0A-56AF-42E6-A103-438F1DC2CB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA063D0A-56AF-42E6-A103-438F1DC2CB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA063D0A-56AF-42E6-A103-438F1DC2CB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
