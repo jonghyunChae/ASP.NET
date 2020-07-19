@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevControlRichEdit", "DevCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevValidationControl", "DevValidationControl\DevValidationControl.csproj", "{3BF876A1-EC6C-4F70-8669-2DD8A1533152}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevUserControl", "DevUserControl\DevUserControl.csproj", "{B03A3441-9144-4340-B302-FB7AF465E3F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3BF876A1-EC6C-4F70-8669-2DD8A1533152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF876A1-EC6C-4F70-8669-2DD8A1533152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF876A1-EC6C-4F70-8669-2DD8A1533152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03A3441-9144-4340-B302-FB7AF465E3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03A3441-9144-4340-B302-FB7AF465E3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03A3441-9144-4340-B302-FB7AF465E3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03A3441-9144-4340-B302-FB7AF465E3F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
