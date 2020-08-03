@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevValidationControl", "Dev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevUserControl", "DevUserControl\DevUserControl.csproj", "{B03A3441-9144-4340-B302-FB7AF465E3F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevMasterPage", "DevMasterPage\DevMasterPage.csproj", "{5AD651A7-07AE-4090-B552-164EA201AC4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTheme", "DevTheme\DevTheme.csproj", "{6E9FF87E-2AE0-484C-9966-AA98445B9DE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B03A3441-9144-4340-B302-FB7AF465E3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B03A3441-9144-4340-B302-FB7AF465E3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B03A3441-9144-4340-B302-FB7AF465E3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD651A7-07AE-4090-B552-164EA201AC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD651A7-07AE-4090-B552-164EA201AC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD651A7-07AE-4090-B552-164EA201AC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD651A7-07AE-4090-B552-164EA201AC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9FF87E-2AE0-484C-9966-AA98445B9DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9FF87E-2AE0-484C-9966-AA98445B9DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9FF87E-2AE0-484C-9966-AA98445B9DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9FF87E-2AE0-484C-9966-AA98445B9DE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
